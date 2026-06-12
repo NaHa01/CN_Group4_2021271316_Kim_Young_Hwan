@@ -1,7 +1,8 @@
 # Three Roads to Connect IoT
 ### LPWAN · Backscatter · Edge AI & TinyML — a comparative study of low-power, massive IoT, with a fully-sourced link-budget simulation
 
-**Author - 김영환 (2021271316)**
+**Author - 김영환 (2021271316)**  
+
 **Computer Networks · Group 4** — 김영환 (2021271316) · 김영도 (2024270612) · 최치우 (2025270614)
 
 > 🎬 **Video presentation (required): [▶ Watch the video here](https://youtu.be/jF507OCnZ-k)**
