@@ -5,7 +5,8 @@
 
 **Computer Networks · Group 4** — 김영환 (2021271316) · 김영도 (2024270612) · 최치우 (2025270614)
 
-> 🎬 **Video presentation (required): [▶ Watch the video here](https://youtu.be/jF507OCnZ-k)**
+> 🎬 **Video presentation: [▶ Watch the video here](https://youtu.be/jF507OCnZ-k)**
+[![Video](https://img.youtube.com/vi/jF507OCnZ-k/0.jpg)](https://youtu.be/jF507OCnZ-k)
 
 ---
 
