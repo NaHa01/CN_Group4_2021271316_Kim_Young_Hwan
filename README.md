@@ -303,4 +303,4 @@ Every function in [`lpwan_vs_backscatter.py`](lpwan_vs_backscatter.py) carries a
 
 ---
 
-AI assistance: An AI assistant was used to help with drafting and proofreading the text of this document, and provided coding assistance.  All technical content, equations, simulations, and sources were determined and verified by the authors.
+AI assistance: An AI assistant was used to help with drafting and proofreading the text of this document, and provided coding assistance.  All technical content, equations, simulations, and sources were determined and verified by group members.
