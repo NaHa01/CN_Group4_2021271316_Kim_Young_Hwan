@@ -7,7 +7,7 @@
 
 > 🎬 **Video presentation: [▶ Watch the video here](https://youtu.be/jF507OCnZ-k)**
 
-[![Video](https://img.youtube.com/vi/jF507OCnZ-k/0.jpg)](https://youtu.be/jF507OCnZ-k)
+[![Video](https://img.youtube.com/vi/jF507OCnZ-k/maxresdefault.jpg)](https://youtu.be/jF507OCnZ-k)
 
 ---
 
